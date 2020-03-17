@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"fuck you bitch"
